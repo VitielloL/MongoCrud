@@ -1,12 +1,15 @@
 # MongoCrud
-mongocrud com express, mongoose
+CRUD utilizando mongo com express, mongoose
 
-
-instal https://www.mongodb.com/try/download mongo db Community Server
+______________
+instal mongo db Community Server: https://www.mongodb.com/try/download 
 
 npm i express
+
 npm i dotenv
+
 npm i mongoose
+
 npm i nodemon
 
 npm run dev

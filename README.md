@@ -1,5 +1,5 @@
 # api-MongoCrud
-CRUD utilizando mongo com express, mongoose
+CRUD utilizando mongo com express, mongoose.
 
 ______________
 instal mongo db Community Server: https://www.mongodb.com/try/download 
